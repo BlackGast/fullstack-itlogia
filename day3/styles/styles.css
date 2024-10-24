@@ -81,7 +81,7 @@ body {
     margin-left: 250px;
 }
 
-.main-list {
+.menu-list {
     list-style: none;
     display: flex;
     gap: 50px;
@@ -170,7 +170,7 @@ body {
 
 .products-item-text {
     height: 110px;
-    font-size: 10px;
+    font-size: 14px;
     line-height: 120%;
     margin-bottom: 20px;
 }
